@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-My Github Stats:
-![Dolfies's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=blue-green)
+My Github Stats:  
+![Dolfies's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolfies&show_icons=true&theme=blue-green)
 
 <!--
 **dolfies/dolfies** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
