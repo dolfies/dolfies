@@ -7,4 +7,9 @@ Email: [me@dolfi.es](mailto:iclickedthislink@dolfi.es)
 Telegram: [@dolfies](https://t.me/dolfies)  
 Discord: [@dolfies](https://discord.com/users/852892297661906993?friend_token=ODUyODkyMjk3NjYxOTA2OTkz.Z6mWaA.9M5Zs7i-mtgcgihUE6TfALq6iuM)
 
-![Dolfies's GitHub stats](https://github-readme-stats.vercel.app/api?username=dolfies&show_icons=true&theme=blue-green)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=dolfies&show_icons=true&include_all_commits=true&theme=blue-green)
+
+<!--
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dolfies&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dolfies&theme=tokyonight)   ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dolfies&theme=tokyonight)
+-->
